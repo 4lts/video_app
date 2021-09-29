@@ -91,5 +91,4 @@ local_settings.py
 db.sqlite3
 db_old.sqlite3
 
-media/chunked_uploads/
-media/post_videos/
+media/
